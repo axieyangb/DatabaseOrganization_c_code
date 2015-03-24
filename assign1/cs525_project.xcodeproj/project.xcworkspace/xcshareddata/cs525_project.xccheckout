@@ -14,11 +14,11 @@
 		<string>github.com:axieyangb/DatabaseOrganization.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>assign1/cs525_project/cs525_project.xcodeproj</string>
+	<string>assign1/cs525_project.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>62A921FBE7C43C6B8A206209431DD59BDFE3F3D3</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:axieyangb/DatabaseOrganization.git</string>

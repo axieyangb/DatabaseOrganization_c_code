@@ -72,6 +72,7 @@ Record *fromTestRecord (Schema *schema, TestRecord in);
 char *testName;
 
 // main method
+
 int 
 main (void) 
 {

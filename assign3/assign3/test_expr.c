@@ -31,8 +31,9 @@ static void testOperators (void);
 static void testExpressions (void);
 
 char *testName;
-/**
+
 // main method
+/**
 int 
 main (void) 
 {
@@ -43,7 +44,7 @@ main (void)
   testExpressions();
 
   return 0;
-}
+}**/
 
 // ************************************************************ 
 void
@@ -123,4 +124,4 @@ testExpressions (void)
 
   TEST_DONE();
 }
- **/
+ 
